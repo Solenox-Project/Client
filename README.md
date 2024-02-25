@@ -1,6 +1,7 @@
 ## Solenox Project Reborn (Client)
 
 ### ВНИМАНИЕ! ИЗ ДАННОГО РЕПОЗИТОРИЯ УБРАНЫ КОНФИГИ МОДОВ.
+### СБОРКИ ТЕСТИРОВАЛИСЬ НА ОС Fedora Linux 39 Workstation
 
 ### Описание
 
